@@ -19,8 +19,13 @@ The submission contains:
 ## References
 
 [1] Byeong Hwa Kim, Norris Stubbs, Taehyo Park, A new method to extract modal parameters using output-only responses, Journal of Sound and Vibration, Volume 282, Issues 1–2, 6 April 2005, Pages 215-230, ISSN 0022-460X, http://dx.doi.org/10.1016/j.jsv.2004.02.026.
+
 [2] Brincker, R.; Zhang, L.; Andersen, P. (2001). "Modal identification of output-only systems using frequency domain decomposition". Smart Materials and Structures 10 (3): 441. doi:10.1088/0964-1726/10/3/303.
+
 [3] BRINCKER, Rune, ZHANG, Lingmi, et ANDERSEN, P. Modal identification from ambient responses using frequency domain decomposition. In: Proc. of the 18*‘International Modal Analysis Conference (IMAC), San Antonio, Texas. 2000
+
 [4] http://www.mathworks.com/matlabcentral/fileexchange/50988-frequency-domain-decomposition--fdd-
+
 [5] https://se.mathworks.com/matlabcentral/fileexchange/57153-automated-frequency-domain-decomposition--afdd-
+
 [6] https://se.mathworks.com/matlabcentral/fileexchange/55557-modal-parameters-identification-from-ambient-vibrations--sdof
